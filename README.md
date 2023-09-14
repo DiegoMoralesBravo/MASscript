@@ -1,4 +1,4 @@
-# Proyecto de Segmentación de Nanopartículas en Micrografías
+# Mikroanagrapho
 
 Este es un proyecto de segmentación de nanopartículas en micrografías utilizando técnicas de aprendizaje automático y procesamiento de imágenes. El objetivo principal de este proyecto es proporcionar una herramienta que permita la detección y segmentación precisa de nanopartículas en micrografías, lo que puede ser de gran utilidad en diversas aplicaciones científicas y de investigación.
 
@@ -21,7 +21,7 @@ Para ejecutar este proyecto en su propio entorno, siga estos pasos:
 
 1. Clone el repositorio desde GitHub:
 
-git clone https://github.com/tu_usuario/nanoparticulas-segmentacion.git
+git clone [https://github.com/tu_usuario/nanoparticulas-segmentacion](https://github.com/DiegoMoralesBravo/Mikroanagrapho/).git
 
 
 2. Cree un entorno virtual (se recomienda el uso de `virtualenv`):
